@@ -28,7 +28,7 @@ I also write apps for the [Overwolf](https://overwolf.com) platform, like my new
 |:--------|:------------------|
 | [Journal Limpet](https://github.com/itssimple/journal-limpet) | Automated service that stores and pushes player journals to different services |
 | [CurseForge .NET API Client](https://github.com/CurseForgeCommunity/.NET-APIClient) | .NET library to communicate with the CF Core API |
-| [Minecraft Modpack server launcher](https://github.com/CurseForgeCommunity/cf-mc-server) | CLI that allows you to setup (almost) any modpack from CurseForge as a server |
+| [CF-MC-Server](https://github.com/CurseForgeCommunity/cf-mc-server) | CLI that allows you to setup (almost) any modpack from CurseForge as a server |
 | [KeyVault](https://github.com/itssimple/keyvault) | No, not the Azure one.. This is a project me and a coworker had back in 2012, basically a way to keep secrets, secret |
 | [MN.L10n](https://github.com/MultinetInteractive/MN.L10n) | Started off as a side project where I wanted to know how Stackoverflow built their localizations, but then I built and published this as a fully working translation system that we use in all services at work |
 | [CFLookup](https://github.com/itssimple/WhatCurseForgeProjectIsThis) | A simple webbased service, that tells you what hides behind these cryptic "Project IDs" that you can get errors about in CurseForge. (Previously called What CurseForge Project Is This?) |
