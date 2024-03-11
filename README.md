@@ -16,7 +16,7 @@ I also write apps for the [Overwolf](https://overwolf.com) platform, like my new
 
 ## 🛰️ Socials
 
-- 🐦 [Twitter: NoLifeKing85](https://twitter.com/NoLifeKing85)
+- 𝕏 [X (Twitter): NoLifeKing85](https://twitter.com/NoLifeKing85)
 - 📸 [Instagram: NoLifeKing85](https://instagram.com/NoLifeKing85)
 - 🦄 Discord: nolifeking
 - 🎮 [Twitch: NoLifeKing85](https://twitch.tv/NoLifeKing85)
