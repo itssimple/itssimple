@@ -2,7 +2,7 @@
 
 I'm [NoLifeKing](https://nolifeking85.tv) (or as I'm named here, itssimple, or just actually.. Chris).
 
-By day I'm working as [MultiNet Interactive AB](https://github.com/MultinetInteractive), and by evening/night/weekends I poke at personal projects, and even some projects for [Fuel Rats](https://github.com/FuelRats) and [CurseForge Community](https://github.com/CurseForgeCommunity).
+By day I'm working as [MultiNet Interactive AB](https://github.com/MultinetInteractive), and by evening/night/weekends I poke at personal projects, and even some projects for [CurseForge Community](https://github.com/CurseForgeCommunity).
 
 ## 🤪 A bit more about me
 
